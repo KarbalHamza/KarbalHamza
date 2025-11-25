@@ -31,4 +31,4 @@
 - **GitHub Foundations**
 - **SQL Associate Certification**
 
-<h1 align="center"> ✨ *Thanks for visiting my profile!*</h1>
+<h1 align="center"> ✨ Thanks for visiting my profile</h1>
